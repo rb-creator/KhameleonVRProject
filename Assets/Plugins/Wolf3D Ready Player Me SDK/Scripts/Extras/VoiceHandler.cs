@@ -103,6 +103,7 @@ namespace Wolf3D.ReadyPlayerMe.AvatarSDK
         public void PlayCurrentAudioClip()
         {
             AudioSource.Play();
+            Debug.Log("It's Working!");
         }
 
         public void PlayAudioClip(AudioClip audioClip)
