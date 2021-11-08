@@ -8048,10 +8048,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 707617084071992308, guid: 6201f40368b43441d95de417b5433c9f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1851837555299001652, guid: 6201f40368b43441d95de417b5433c9f,
         type: 3}
       propertyPath: m_Name
       value: TronFloor
+      objectReference: {fileID: 0}
+    - target: {fileID: 1851837555299001652, guid: 6201f40368b43441d95de417b5433c9f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3202578296528805418, guid: 6201f40368b43441d95de417b5433c9f,
         type: 3}
@@ -9565,6 +9575,10 @@ PrefabInstance:
     - target: {fileID: 136928, guid: 01538f1c3c3e04848889987a7bca8e63, type: 3}
       propertyPath: m_Name
       value: Sun (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 175264, guid: 01538f1c3c3e04848889987a7bca8e63, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 418172, guid: 01538f1c3c3e04848889987a7bca8e63, type: 3}
       propertyPath: m_RootOrder
